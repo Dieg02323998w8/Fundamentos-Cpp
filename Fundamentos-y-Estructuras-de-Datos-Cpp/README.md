@@ -38,7 +38,6 @@ g++ -std=c++17 01_variables.cpp -o 01_variables
 - `09_poo`: clases y objetos.
 - `10_archivos`: lectura y escritura de archivos.
 - `11_stl`: contenedores de la biblioteca estándar.
-- `12_ejercicios_resueltos`: ejercicios básicos con soluciones sencillas.
 
 ## Recomendación de estudio
 
